@@ -1,0 +1,2 @@
+Slide 6: animation-1.gif — 9 frames; total 5400 ms; original animation bytes preserved
+Slide 6: animation-2.gif — 8 frames; total 2400 ms; original animation bytes preserved
