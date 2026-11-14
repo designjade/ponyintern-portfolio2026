@@ -1,20 +1,40 @@
-# Jade Lam | Pony Brand Design Portfolio
+# Jade Lam | Brand Design Portfolio 2026
 
-A static, responsive, slide-based portfolio website converted from `JadeLam_Pony_Portfolio_2026.pptx`.
+A selection of brand identity, cultural storytelling and creative experimentation projects, presented as part of my application for the **Brand Design Internship at Pony**.
 
-## Publish with GitHub Pages
+I'm a multidisciplinary designer interested in how stories, rituals and human behaviour can shape distinctive brand identities and experiences. Through research and playful experimentation, I turn observations into visual languages that connect ideas with people.
 
-1. Create a new **public** GitHub repository, for example `pony-portfolio`.
-2. Upload **the contents of this folder** (`index.html`, `.nojekyll`, `assets/`, and `README.md`) to the repository root. Do not upload only the ZIP.
-3. In the GitHub repository, go to **Settings → Pages**. Under **Build and deployment**, choose **Deploy from a branch**, then select **main** and **/(root)**. Save.
-4. Your URL will normally be `https://YOUR-GITHUB-USERNAME.github.io/pony-portfolio/` once GitHub Pages publishes the repository.
-5. Open the URL and confirm that the two GIFs play on slide 6 and that all links work before sharing it.
+## Selected Projects
 
-## Notes
+**01 / GUTTER**  
+*A speculative brand inviting busy office workers to reconnect with their gut feeling.*
 
-- The site renders each PPTX slide as a high-resolution background and overlays the **original, unmodified GIF files** on slide 6. GIF frame counts and timing are preserved.
-- No external JS/CSS libraries or font files are needed, and no visitor information is collected by this website's code.
-- The interface supports previous/next, keyboard arrows, touch swipes, fullscreen, section shortcuts, and contact links.
-- The slide graphics are images, so editing text requires editing the PowerPoint and rebuilding the slide exports. This preserves precise slide layouts but is not fully accessible as selectable text.
-- GitHub Pages on a public repository makes the portfolio publicly accessible to anyone with its URL and potentially discoverable. Avoid posting materials that must remain private.
-- To keep the published site live, leave the Pages repository in place.
+Brand identity, behavioural design, physical prototyping and AI-assisted digital exploration.
+
+**02 / EGGY**  
+*A playful rebrand challenging cultural perceptions of the century egg.*
+
+Brand strategy, visual identity, art direction and cultural storytelling.
+
+**03 / GLIMMERA**  
+*An immersive fictional world built around cultural exchange and discovery.*
+
+Team lead, worldbuilding and visual identity. Disney Imaginations Competition 2025 finalist.
+
+## View the Portfolio
+
+Explore the full portfolio through the GitHub Pages website linked in this repository's **About** section.
+
+The website preserves the presentation's original visual design, including animated GIFs and interactive navigation.
+
+## Contact
+
+**Jade Lam**  
+London, UK
+
+Email: lxmngch.studio@gmail.com  
+Instagram: [@d.archivol](https://www.instagram.com/d.archivol/)
+
+---
+
+© 2026 Jade Lam. All design work and imagery are presented for portfolio purposes.
